@@ -1,6 +1,6 @@
 public class test {
     public static void main(String args[]){
-    int age;
+    int age=0;
     System.out.println(age);
 }
 }
